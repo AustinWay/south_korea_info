@@ -1,2 +1,2 @@
-# South-Korea_Info
+# South Korea Information
 A website of information about South Korea 
